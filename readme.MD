@@ -4,7 +4,7 @@ using machine learning to screen x-rays for pathology
 
 ## Background
 
-<ceneter><img src="/images/3_scan" alt="example images"></center>
+<ceneter><img src="/images/3_scan.png" alt="example images"></center>
 
 Many thousands of x-rays are performed daily. Within the medical community the assessment of an x-ray especially a chest x-ray (CXR), at least in the rapid screening since is a highly common if not ubiquitous task amounts many medical specialties. Official review is done by a Radiologist (MD or DO). To them this task routine in most cases due to the fact that they have evaluated so many. However, to get to that point they have had to undergo many years of school and residency. In addition to this, despite being a minor task, the sheer number of them requries significant amounts of time which can be taxing on the system. 
 
