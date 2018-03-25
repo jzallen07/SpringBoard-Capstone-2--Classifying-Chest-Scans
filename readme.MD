@@ -2,6 +2,13 @@
 # Springboard-Capstone-2-X-Ray Classification
 using machine learning to screen x-rays for pathology
 
+## Files:
+The initial data exploration can be found[<a href="https://github.com/jzallen07/SpringBoard-Capstone-2--Classifying-Chest-X-rays/blob/master/capstone%202%20eda%20.ipynb">here</a>]
+The file sorting script can be found [<a href="https://github.com/jzallen07/SpringBoard-Capstone-2--Classifying-Chest-X-rays/blob/master/capstone%202%20image%20file%20parsing%20(sorting).ipynb">here</a>]
+The **final model** can be found [<a href="https://github.com/jzallen07/SpringBoard-Capstone-2--Classifying-Chest-X-rays/blob/master/capstone_2_final_model-checkpoint.ipynb">here</a>]
+The project write ups can be found [<a href="https://github.com/jzallen07/SpringBoard-Capstone-2--Classifying-Chest-X-rays/blob/master/documents/Capstone%202.pdf">here</a>] and the final [<a href="https://github.com/jzallen07/SpringBoard-Capstone-2--Classifying-Chest-X-rays/blob/master/documents/Capstone%202%20final.pdf">here</a>]
+
+
 ## Background
 
 <ceneter><img src="/images/3_scan.png" alt="example images"></center>
